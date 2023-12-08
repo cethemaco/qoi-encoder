@@ -1,0 +1,9 @@
+failures/
+example/
+.vscode
+results/
+rgb_data/
+*.o
+encoder_old.c
+generate_debug_pixels.sh
+compare.sh
